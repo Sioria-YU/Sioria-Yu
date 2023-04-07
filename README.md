@@ -2,5 +2,5 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sioria_YU&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Sioria_YU&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sioria-Yu&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Sioria-Yu&show_icons=true">
