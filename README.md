@@ -4,7 +4,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Sioria-Yu&show_icons=true&theme=radical">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sioria-Yu&layout=compact&theme=radical">
 <br>
 <br>
-
+<br>
+<br>
 <h1>Tech Stack</h1>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -20,6 +21,7 @@
 	<img src="https://img.shields.io/badge/PostgreSql-4169E1?style=flat&logo=postgresql&logoColor=white" />
 </div>
 <br>
+<br>
 <h1>Tools</h1>
 <div align="center">
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-0071C5?style=flat&logo=intellijidea&logoColor=white" />
@@ -33,6 +35,7 @@
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 </div>
+<br>
 <br>
 <h1>Study Tech</h1>
 <div align="center">
