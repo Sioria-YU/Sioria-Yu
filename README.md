@@ -10,9 +10,9 @@
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jsp-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/JPA-#9666C?style=flat&logo=hibernate&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-#9666C?style=flat&logo=Mybatis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jsp-007396?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/JPA-#9666C?style=flat&logo=Hibernate&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-#9666C?style=flat&logoColor=white" />
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white" />
