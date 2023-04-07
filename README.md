@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sioria's&nbsp;GitHub&fontSize=90&desc=Thanks&nbsp;for&nbsp;your&nbsp;visit" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sioria's&nbsp;GitHub&fontSize=90&desc=Thanks&nbsp;for&nbsp;your&nbsp;visit&descSize=30&descAlign=80&&descAlignY=70" />
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sioria-Yu&show_icons=true&theme=radical">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sioria-Yu&layout=compact&theme=radical">
