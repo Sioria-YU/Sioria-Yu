@@ -37,7 +37,7 @@
 </div>
 <br>
 <br>
-<h1>Study Tech</h1>
+<h1>Studying Tech</h1>
 <div align="center">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Elastic Search-005571?style=flat&logo=elasticsearch&logoColor=white" />
