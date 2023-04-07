@@ -8,7 +8,13 @@
 <h1>Tech Stack</h1>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jsp-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/JPA-#9666C?style=flat&logo=hibernate&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mybatis-#9666C?style=flat&logo=Mybatis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />
+	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/PostgreSql-4169E1?style=flat&logo=postgresql&logoColor=white" />
 </div>
