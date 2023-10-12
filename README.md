@@ -8,7 +8,7 @@
 <br>
 <h1>Tech Stack</h1>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<br>
@@ -47,5 +47,5 @@
 	<img src="https://img.shields.io/badge/Elastic Search-005571?style=flat&logo=elasticsearch&logoColor=white" />
 	<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white" />
 	<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white" />
-	<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=Fluttert&logoColor=white" />
+	<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=fluttert&logoColor=white" />
 </div>
